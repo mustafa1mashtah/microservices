@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend_microservices.iml" filepath="$PROJECT_DIR$/.idea/backend_microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration/configuration.iml" filepath="$PROJECT_DIR$/configuration/configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/morse-encoder/encoder/encoder.iml" filepath="$PROJECT_DIR$/morse-encoder/encoder/encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/morse-encoder/morse/morse.iml" filepath="$PROJECT_DIR$/morse-encoder/morse/morse.iml" />
+    </modules>
+  </component>
+</project>
